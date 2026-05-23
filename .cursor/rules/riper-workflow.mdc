@@ -1,0 +1,40 @@
+---
+description: RIPER methodology — Research, Innovate, Plan, Execute, Review. Five-phase systematic development for complex multi-step work with separation of concerns.
+alwaysApply: false
+---
+
+# RIPER workflow
+
+Five phases, each with its own access mode and artifact.
+
+## 1. Research (read-only)
+Output: research-notes.md. Understand what exists now.
+
+## 2. Innovate (read-only, optional)
+Output: approaches.md. 2-3 viable approaches with trade-offs.
+
+## 3. Plan (write to docs)
+Output: [task]-plan.md. Measurable success criteria, sequential steps with verify checks, rollback plan. Approval gate before Execute.
+
+## 4. Execute (full access)
+Follow the plan. Verify each step. Document deviations.
+
+## 5. Review (read-only)
+Output: review.md. Verify success criteria, run tests, retrospective.
+
+## Phase transitions
+
+Each transition is deliberate. Don't start coding during Research. Don't research mid-Execution. Don't skip Review.
+
+## When to use
+
+- Architecture changes
+- Multi-file refactors
+- Auth, payments, data integrity work
+- Migrations
+
+## When NOT to use
+
+- Typo fixes
+- Single-file bug fixes with obvious cause
+- Prototype exploration
