@@ -1,6 +1,23 @@
-# RIPER Workflow Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="RIPER Workflow Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for the RIPER methodology — Research, Innovate, Plan, Execute, Review. Five-phase systematic development for complex multi-step work.
+<h1 align="center">RIPER Workflow Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for the RIPER methodology — Research, Innovate, Plan, Execute, Review. Five-phase systematic development workflow for complex multi-step work with separation of concerns and persistent task knowledge.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/riper-workflow-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/riper-workflow-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/riper-workflow-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/riper-workflow-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/riper-workflow-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/riper-workflow-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for the RIPER methodology — Research, Innovate, Plan, Execute, Review. Five-phase systematic development for complex multi-step work.**
 
 ## Why RIPER
 
